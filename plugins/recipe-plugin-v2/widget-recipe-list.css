@@ -1,0 +1,55 @@
+.recipe-container {
+    display: table;
+}
+
+div.gallery {
+  display: table-row;
+  margin: 12px;
+  border: 2px solid #ccc;
+  float: left;
+  width: 250px;
+  vertical-align: middle;
+    display:inline-block;
+    height:380px;
+}
+
+div.gallery:hover {
+  border: 2px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 10px;
+  text-align: center;
+  height: 60px;
+}
+
+.foodname-text {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+div.label-container {
+  padding: 3px;
+  margin-right: 5px;
+  margin-left: 8px;
+}
+
+.label {
+  color: white;
+  padding: 3px;
+  font-family: Arial;
+  font-size: 2px;
+  height: max-content;
+  margin: 3px;
+  white-space:nowrap;
+  border-radius: 5px;
+}
+.low-fat {background-color: #04AA6D;} /* Green */
+.low_sodium {background-color: #2196F3;} /* Blue */
+.low_calorie {background-color: #ff9800;} /* Orange */
+.low_sugar {background-color: #f44336;} /* Red */ 
