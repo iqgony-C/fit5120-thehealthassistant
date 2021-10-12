@@ -1,0 +1,160 @@
+assetid,name,strno,street,suburb,classif,park_id,lat,lon
+PL1,Acheron Reserve Playground,9-11,Acheron Street,Doncaster,Small Playground,FLPK2,-37.79041961400,145.11452704000
+PL2,Aintree Reserve Playground,4-6,Aintree Avenue,Donvale,Small Playground,FLPK3,-37.78773805800,145.16861468300
+PL3,Allara Reserve Playground,6,Allara Court,Donvale,Small Playground,FLPK9,-37.77510940000,145.18072418500
+PL5,Anthony Reserve Playground,2-20,Anthony Avenue,Doncaster,Small Playground,FLPK348,-37.77578461100,145.10922800400
+PL6,Apple Blossom Reserve Playground,13,Apple Blossom Court,Templestowe,Small Playground,FLPK14,-37.77234313200,145.16134148400
+PL7,Aranga Reserve Playground,,Eastway Avenue,Donvale,Small Playground,FLPK16,-37.80216418200,145.17673409200
+PL8,Argyle Reserve Playground,18,Argyle Street,Donvale,Small Playground,FLPK17,-37.79890167700,145.17119547300
+PL9,Dryden Reserve Playground,31,Ascot Street,Doncaster East,Small Playground,FLPK22,-37.78499122300,145.15903831900
+PL10,Astelot Reserve Playground,22A,The Glen,Donvale,Small Playground,FLPK23,-37.80096433900,145.18037997900
+PL11,Balmoral Reserve Playground,59-61,Macedon Road,Templestowe Lower,Small Playground,FLPK33,-37.77024169400,145.11258543500
+PL12,Thea Reserve Playground,12,Baratta Street,Doncaster East,Large Playground,FLPK284,-37.79743339700,145.15294240000
+PL13,Bebs Reserve Playground,4,Bebs Court,Templestowe,Small Playground,FLPK31,-37.75902973300,145.15470990700
+PL15,Beverley Reserve Playground,115,Beverley Street,Doncaster East,Small Playground,FLPK36,-37.79144401900,145.16635006800
+PL16,Bimbadeen Reserve Playground,250,Templestowe Road,Templestowe Lower,Large Playground,FLPK38,-37.75748066000,145.10920780200
+PL18,Brendan Reserve Playground,23,Brendan Avenue,Doncaster,Small Playground,FLPK45,-37.78076346200,145.12145650100
+PL19,Bulleen Park Playground,175,Bulleen Road,Bulleen,Large Playground,FLPK51,-37.77251307000,145.07193287600
+PL20,Bullen Reserve Playground,2,Lawrence Street,Doncaster East,Small Playground,FLPK50,-37.79288019600,145.14751555300
+PL21,Burgundy Reserve Playground,4A,Burgundy Drive,Doncaster,Small Playground,FLPK53,-37.77943408900,145.11953077700
+PL22,Cameron Reserve Playground,16,Cameron Close,Donvale,Small Playground,FLPK55,-37.78024546100,145.17984887700
+PL23,Carawatha Reserve Playground,7,Koolkuna Avenue,Doncaster,Large Playground,FLPK57,-37.78946313800,145.11838176100
+PL24,Cat Jump Park Playground,103-107,Bellevue Avenue,Doncaster East,District Playground,FLPK60,-37.78069030600,145.17426760100
+PL25,Celeste Reserve East Playground,48,Celeste Street,Doncaster East,Small Playground,FLPK63,-37.78678041700,145.15465830900
+PL26,Celeste Reserve West Playground,12,Celeste Street,Doncaster East,Small Playground,FLPK62,-37.78625493200,145.15017739400
+PL27,Carisbrook Reserve Playground,10,Carrisbrook Court,Doncaster East,Small Playground,FLPK70,-37.78682814700,145.16560738700
+PL28,Colman Park Playground,64-76,Croydon Road,Warrandyte South,Small Playground,FLPK71,-37.76675772800,145.23826209300
+PL29,Coolabah Reserve Playground,35-37,Coolabah Street,Doncaster,Small Playground,FLPK74,-37.79120551900,145.13932613300
+PL30,Corroboree Reserve Playground,92,Hodgson Street,Templestowe Lower,Small Playground,FLPK75,-37.75954842600,145.10501196400
+PL31,Crawford Reserve Playground,37,Ironbark Drive,Templestowe Lower,Small Playground,FLPK77,-37.77426557900,145.12157727400
+PL32,Daniel Reserve Playground,15-17,Daniel Court,Donvale,Small Playground,FLPK78,-37.78485826100,145.17649734900
+PL34,Davis Reserve Playground,12,Davis Street,Doncaster,Small Playground,FLPK160,-37.79389942200,145.11903707300
+PL35,Jocelyn Reserve Playground,24,Dehnert Street,Doncaster East,Large Playground,FLPK89,-37.78511668400,145.14922151900
+PL36,Dellfield Reserve Playground,54-58,Dellfield Drive,Templestowe Lower,Small Playground,FLPK86,-37.76452100400,145.12505961800
+PL37,Domeney Reserve Playground,24-52,Knees Road,Park Orchards,Large Playground,FLPK91,-37.77384929900,145.21762268000
+PL38,Doncaster Reserve Playground,918,Doncaster Road,Doncaster East,District Playground,FLPK92,-37.78821846800,145.15205289300
+PL40,Donvale Reserve Playground,36-82,Mitcham Road,Donvale,Large Playground,FLPK94,-37.79613024700,145.17640408400
+PL41,Dudley Reserve Playground,37,Dudley Road,Wonga Park,Small Playground,FLPK96,-37.73121065300,145.27286425100
+PL42,Dumossa Reserve Playground,31,Dumossa Avenue,Bulleen,Small Playground,FLPK324,-37.76239841500,145.08753863200
+PL43,Eildon Reserve Playground,11,Eildon Street,Doncaster,Small Playground,FLPK352,-37.79449498000,145.12422181900
+PL44,Fahey Park Playground,33,Melissa Street,Donvale,Small Playground,FLPK101,-37.78312175000,145.17794574600
+PL45,Fernlea Reserve Playground,20,Fernlea Crescent,Doncaster East,Small Playground,FLPK104,-37.75337144400,145.17020639900
+PL46,Fielding Reserve Playground,3-5,Fielding Way,Templestowe,Large Playground,FLPK105,-37.76076307000,145.15750568000
+PL47,Finns Reserve Playground,4,Duncan Street,Templestowe Lower,Regional Playground,FLPK106,-37.75384839900,145.11577226600
+PL50,Dehnert Reserve Playground,64-66,Denhert Street,Doncaster East,Small Playground,FLPK116,-37.78123201000,145.14991916200
+PL51,Gertrude Reserve Playground,2-4,Gertrude Street,Templestowe Lower,Small Playground,FLPK117,-37.76497700600,145.10114306900
+PL52,Paterson Reserve Playground,86A,Glenair Court,Templestowe Lower,Small Playground,FLPK120,-37.75857826300,145.11648253600
+PL53,Glenda Reserve Playground,36,Glenda Street,Doncaster,Large Playground,FLPK121,-37.78337109900,145.10697362700
+PL54,Grant Olson Reserve Playground,32-34,Bourke Street,Bulleen,Large Playground,FLPK123,-37.76540286800,145.09333287000
+PL56,Bronte Playspace,289,Serpells Road,Templestowe,Large Playground,FLPK401,-37.76693816800,145.16246301300
+PL57,Grover Reserve Playground,5-15,Grover Road,Doncaster,Small Playground,FLPK128,-37.78082713900,145.14069865400
+PL58,Hampshire Reserve Playground,22-26,Hampshire Road,Doncaster,Small Playground,FLPK129,-37.79475438600,145.13868513700
+PL59,Hanke Reserve Playground,15,Hanke Road,Doncaster,Small Playground,FLPK130,-37.79104364700,145.12432455100
+PL60,Happy Valley Reserve Playground,3,Whickson Court,Doncaster East,Small Playground,FLPK131,-37.76673471000,145.17478754000
+PL61,Harold Reserve Playground,29A,Harold Street,Bulleen,Small Playground,FLPK132,-37.77509025400,145.09858440900
+PL62,Heath Reserve Playground,16,Heath Street,Templestowe Lower,Large Playground,FLPK135,-37.75933818700,145.11354314500
+PL63,Hillcroft Reserve Playground,45-47,Hillcroft Drive,Templestowe,Small Playground,FLPK141,-37.76915416200,145.13588698400
+PL64,Hollywood Playspace,10A,Lawsons Court,Templestowe,Small Playground,FLPK402,-37.75712179800,145.16390252600
+PL65,Hodgson Reserve Playground,261,Thompsons Road,Templestowe Lower,Small Playground,FLPK328,-37.76726200600,145.10399852300
+PL66,Ironbark Reserve Playground,62,Ironbark Drive,Templestowe Lower,Small Playground,FLPK153,-37.77290786200,145.11748290200
+PL67,Mandella Reserve Playground,23,Jacobena Place,Templestowe,Small Playground,FLPK154,-37.75648380200,145.14126696300
+PL69,Jenkins Park Playground,24-28,Shakespeare Drive,Templestowe,District Playground,FLPK403,-37.76493727500,145.16239801700
+PL70,Joroma Reserve Playground,16,Joroma Place,Wonga Park,Small Playground,FLPK158,-37.75955613400,145.28825285200
+PL71,June Reserve Playground,14,June Crescent,Templestowe,Small Playground,FLPK159,-37.76074030900,145.13183252700
+PL72,Katrina Gully Playground,20,Katrina Street,Doncaster,Large Playground,FLPK405,-37.79452032600,145.11664191900
+PL73,Kenman Reserve Playground,11A,Kenman Close,Templestowe,Small Playground,FLPK342,-37.75950108800,145.14427575100
+PL74,Kerry Anne Reserve (North) Playground,22,Kerry Anne Crescent,Wonga Park,Small Playground,FLPK163,-37.75670621000,145.28925794400
+PL75,Kerry Reserve Playground,13,Kerry Close,Doncaster East,Small Playground,FLPK162,-37.78348274000,145.14637396500
+PL76,Kevin Reserve Playground,8,Kevin Court,Donvale,Small Playground,FLPK167,-37.80082809500,145.18256350100
+PL77,Kingsnorth Reserve Playground,5-9,Kingsnorth Street,Doncaster,Large Playground,FLPK169,-37.78566669100,145.10358464800
+PL78,Windella Playspace,44-48,Windella Quadrant,Doncaster,Large Playground,FLPK406,-37.79566426000,145.13394752400
+PL79,Darvall Playspace Playground,24,Darvall Street,Donvale,Small Playground,FLPK79,-37.80192144500,145.17110033400
+PL80,Koonung Park Playground,30-34,Furneaux Grove,Bulleen,Small Playground,FLPK170,-37.77887897300,145.08676900500
+PL81,Landscape Reserve Playground,114,Landscape Drive,Doncaster East,District Playground,FLPK174,-37.77105994100,145.17422890700
+PL82,Larnaca Reserve Playground,8,Larnaca Court,Templestowe,Small Playground,FLPK175,-37.77022501900,145.15759126100
+PL83,Larnoo Playspace,58-60,Larnoo Drive,Doncaster East,Large Playground,FLPK407,-37.75962727700,145.18030299900
+PL85,Leawarra Reserve Playground,11,Leawarra Crescent,Doncaster East,Small Playground,FLPK180,-37.77530676300,145.15442910700
+PL87,Lionel Reserve Playground,4-8,Whittenoom Street,Doncaster East,Small Playground,FLPK182,-37.79601300600,145.16145524500
+PL88,Hillcrest Reserve Playground,31-37,Lisbeth Avenue,Donvale,Small Playground,FLPK183,-37.80253748000,145.19547670400
+PL89,Lyndal Reserve Playground,6,Lyndal Close,Doncaster East,Large Playground,FLPK186,-37.75529107400,145.17689755000
+PL90,Lynette Reserve Playground,361,Heidelberg-Warrandyte Road,Warrandyte,Small Playground,FLPK187,-37.74507039200,145.20091524800
+PL91,Lynnwood Reserve Playground,64-68,Fyfe Drive,Templestowe Lower,Large Playground,FLPK188,-37.76948258400,145.12280845300
+PL92,Maggs Reserve (North) Playground,25-27,Maggs Street,Doncaster East,Small Playground,FLPK190,-37.79362027700,145.16433711300
+PL94,Hertford Reserve Playground,2-4,Hertford Road,Doncaster East,Small Playground,FLPK192,-37.77953590400,145.15337203500
+PL95,Marshall Reserve Playground,10,Marshall Avenue,Doncaster,Large Playground,FLPK193,-37.79070594100,145.13517807700
+PL96,Matisse Reserve Playground,15,Renoir Avenue,Templestowe,Large Playground,FLPK194,-37.76078748600,145.16421133000
+PL97,Maxia Reserve Playground,3,Maxia Road,Doncaster East,Small Playground,FLPK195,-37.79773580500,145.15935492000
+PL98,Mayfair Reserve Playground,40,Mayfair Avenue,Templestowe Lower,Small Playground,FLPK196,-37.76656876000,145.11482182800
+PL99,McKenzie Reserve Playground,40,McKenzie Street,Doncaster East,Small Playground,FLPK197,-37.78303693300,145.16992977600
+PL100,Michael Reserve Playground,11,Michael Street,Templestowe Lower,Small Playground,FLPK326,-37.76998445100,145.10956254900
+PL101,Montgomery Reserve Playground,2-10,Montgomery Street,Doncaster East,Small Playground,FLPK203,-37.78819109300,145.15957197600
+PL102,Morecambe Reserve Playground,6-7,Morecambe Court,Templestowe,Small Playground,FLPK206,-37.75385977100,145.13312760200
+PL103,Morna Reserve (North) Playground,26,Morna Road,Doncaster East,Small Playground,FLPK166,-37.79287598200,145.15862466300
+PL104,Mossdale Reserve Playground,4,Mossdale Court,Templestowe,Small Playground,FLPK207,-37.77047773700,145.14248259900
+PL106,Rieschiecks Reserve Playground,10-12,Owens Street,Doncaster East,Small Playground,FLPK238,-37.77729128300,145.14602791600
+PL107,Oxford Reserve Playground,17-19,Oxford Street,Nunawading,Small Playground,FLPK218,-37.80378261100,145.18311308800
+PL108,Park Orchards Reserve Playground,568,Park Road,Park Orchards,Small Playground,FLPK221,-37.77873220300,145.21403136800
+PL110,Pine Hill Reserve Playground,9,Jefferson Grove,Doncaster East,Small Playground,FLPK226,-37.76969432200,145.18022755000
+PL111,Ranleigh Reserve Playground,11-13,Ranleigh Rise,Templestowe Lower,Small Playground,FLPK233,-37.76881047900,145.11499754800
+PL112,Renshaw Reserve Playground,15,Renshaw Street,Doncaster East,Small Playground,FLPK235,-37.79434847700,145.14925625100
+PL113,Riverview Reserve Playground,52,Riverview Terrace,Bulleen,Small Playground,FLPK240,-37.77254708900,145.09931552200
+PL114,Ronald Reserve Playground,13-15,Ronald Avenue,Bulleen,Large Playground,FLPK244,-37.76363048900,145.08982593900
+PL115,Ruffey Lake Park (The Boulevard) Playground,8-94,The Boulevarde,Doncaster,Regional Playground,FLPK247,-37.77721878500,145.13187766300
+PL116,Ruffey Lake Park (Victoria St) Playground,71-125,Victoria Street,Templestowe,Regional Playground,FLPK247,-37.77690448600,145.14435273800
+PL117,Sandra Reserve Playground,20,Sandra Street,Bulleen,Small Playground,FLPK251,-37.77715661100,145.08405745700
+PL118,JW Thomson Reserve Playground,29,Saxon Street,Doncaster,Large Playground,FLPK255,-37.78229163900,145.12797807700
+PL119,Schafter Reserve Playground,12,Schafter Drive,Doncaster East,Large Playground,FLPK256,-37.76265146000,145.17567685100
+PL120,Schramms Reserve Playground (South),2-50,J J Tully Drive,Doncaster,Large Playground,FLPK257,-37.78466153700,145.13377421000
+PL122,Sharon Reserve Playground,11-13,Sharon Street,Doncaster,Small Playground,FLPK260,-37.78371299200,145.14019141700
+PL123,Sheahans Reserve Playground,27-37,Sheahans Road,Bulleen,Large Playground,FLPK262,-37.75903745500,145.09429408200
+PL124,Sinclair Reserve Playground,6-8,Sinclair Avenue,Templestowe Lower,Small Playground,FLPK264,-37.76323137400,145.12111113900
+PL125,Somerville Reserve Playground,22-24,Somerville Street,Doncaster,Small Playground,FLPK265,-37.77847234600,145.11629540700
+PL126,Spring Valley Reserve Playground,31,Springvalley Drive,Templestowe,Large Playground,FLPK266,-37.75339821700,145.15958194200
+PL127,Dellview Playspace Playground,14-15,Springwood Close,Donvale,Large Playground,FLPK411,-37.77488227400,145.18584708300
+PL128,St Clems Reserve Playground,77,Tunstall Road,Doncaster East,Small Playground,FLPK267,-37.79649047500,145.16902458000
+PL129,St Deny's Reserve Playground,8,St Denys Crescent,Wonga Park,Small Playground,FLPK268,-37.73780657400,145.27175315200
+PL130,Stanley Reserve Playground,41,Stanley Street,Bulleen,Small Playground,FLPK269,-37.77461937300,145.08490156000
+PL131,Stiggants Park Playground,45-55,Yarra Street,Warrandyte,Small Playground,FLPK412,-37.74133101600,145.21094727900
+PL132,Studley Reserve Playground,18,Studley Street,Doncaster,Small Playground,FLPK325,-37.78211230400,145.11356801400
+PL133,Swanston Reserve Playground,96-106,Swanston Street,Bulleen,District Playground,FLPK275,-37.76227789300,145.09895765300
+PL134,Tasker Reserve Playground,11A,Tasker Street,Templestowe Lower,Small Playground,FLPK277,-37.76922292200,145.10221623300
+PL135,Ted Ajani Reserve Playground,284-302,Thompsons Road,Templestowe Lower,Large Playground,FLPK279,-37.76900071600,145.10729970900
+PL136,Templestowe Reserve Playground,94-140,Porter Street,Templestowe,Large Playground,FLPK281,-37.75401406300,145.13607467000
+PL137,The Grange Reserve Playground,1A,The Grange,Templestowe,Large Playground,FLPK282,-37.77052335500,145.14899362600
+PL138,Timber Reserve (North) Playground,6-20,Anthony Avenue,Doncaster,Large Playground,FLPK288,-37.77534078400,145.10798821800
+PL139,Timber Reserve (South) Playground,57-59,Timber Ridge,Doncaster,Small Playground,FLPK288,-37.77678236100,145.10590403100
+PL141,Valepark Reserve Playground,41-43,Valepark Drive,Donvale,Large Playground,FLPK294,-37.77749900300,145.18048848300
+PL143,Verbena Reserve Playground,12,Verbena Street,Templestowe,Small Playground,FLPK296,-37.75689177800,145.13244099900
+PL144,Walker Reserve Playground,27,Walker Street,Doncaster,Small Playground,FLPK20,-37.79025545300,145.12843068500
+PL145,Warrandyte Reserve Playground,8,Taroona Avenue,Warrandyte,District Playground,FLPK353,-37.74579607900,145.20742979800
+PL146,Warrandyte Federation Playspace,217,Yarra Street,Warrandyte,Regional Playground,FLPK320,-37.73657838300,145.22046648900
+PL149,Whistlewood Reserve Playground,1,Whistlewood Close,Doncaster East,Small Playground,FLPK308,-37.76750666500,145.16797040000
+PL150,Willow North Reserve Playground,91,Willow Bend,Bulleen,Small Playground,FLPK312,-37.78208953300,145.10089141800
+PL151,Wilsons Reserve Playground,95-107,Wilsons Road,Doncaster,Small Playground,FLPK313,-37.79130497200,145.11104067100
+PL152,Winbrook Reserve Playground,18,Winbrook Court,Doncaster,Small Playground,FLPK314,-37.78108401700,145.12482081800
+PL153,Wittons Reserve Playground,59,Reserve Road,Wonga Park,Small Playground,FLPK309,-37.71871539700,145.28577120000
+PL154,Wonga Park Reserve (Oval) Playground,9-13,Old Yarra Road,Wonga Park,District Playground,FLPK316,-37.73928441200,145.26705868300
+PL155,Wonga Park Tennis Playground,9-13,Old Yarra Road,Wonga Park,Small Playground,FLPK316,-37.73910460400,145.26944593400
+PL157,Woodlea Reserve Playground,14-22,Woodlea Street,Doncaster East,Small Playground,FLPK319,-37.77516263700,145.14797811200
+PL158,Morris Williams Reserve Playground,92,Rocklea Road,Bulleen,District Playground,FLPK321,-37.77075208300,145.08994010200
+PL159,Zerbes Reserve Playground,293,Blackburn Road,Doncaster East,District Playground,FLPK323,-37.77890653800,145.16236842600
+PL161,Albany Reserve Playground,1,Albany Way,Doncaster East,Small Playground,FLPK6,-37.77364856800,145.16633970300
+PL162,Browning Reserve Playground,25,Browning Drive,Templestowe,Small Playground,FLPK47,-37.77059304300,145.16146150300
+PL163,Manna Gum Playground,181,Heidelberg-Warrandyte Road,Doncaster East,District Playground,FLPK171,-37.75026502300,145.17562710600
+PL164,Richard Reserve Playground,12-14,Richard Street,Templestowe Lower,Small Playground,FLPK239,-37.76292241100,145.10738711600
+PL165,Stutt Reserve Playground,22,Golf Links Court,Doncaster,Small Playground,FLPK273,-37.78635809700,145.10714856200
+PL166,Lillian Reserve Playground,13,Lilian Street,Bulleen,Small Playground,FLPK181,-37.76968081800,145.09607332400
+PL167,The Pines Reserve Playground,520,Blackburn Road,Doncaster East,District Playground,FLPK283,-37.76033502400,145.17024827000
+PL168,Ruffey Lake Park (Church St) Playground,228-240,Church Road,Templestowe,Small Playground,FLPK247,-37.77588203000,145.14129216000
+PL169,Wonga Park Reserve - (Gooligulch) Playground,9-13,Old Yarra Road,Wonga Park,Small Playground,FLPK316,-37.73983999600,145.26761739900
+PL170,Aquarena Aquatic and Leisure Centre Playground,139,Williamsons Road,Templestowe Lower,Small Playground,FLPK28,-37.77427703700,145.12258888200
+PL171,Doncaster Reserve Playground (Jackson Ct),918,Doncaster Road,Doncaster East,Small Playground,FLPK92,-37.78905362500,145.15039467900
+PL172,Westwood Reserve Playground,9,Westwood Drive,Bulleen,Small Playground,FLPK306,-37.77966755800,145.10207504800
+PL173,Noral Reserve Playground,1,Noral Court,Templestowe,Small Playground,FLPK213,-37.77280918000,145.15266899900
+PL174,Schramms Reserve Playground (North),2-50,J J Tully Drive,Doncaster,Small Playground,FLPK257,-37.78081237600,145.13462526600
+PL175,Makybe Reserve (Tullamore) Playspace,40,Stables Circuit,Doncaster,Large Playground,FLPK421,-37.78670617500,145.11664900200
+PL176,Southern Gully Reserve - East (Tullamore) Playspace,10,Heritage Boulevard,Doncaster,Large Playground,FLPK420,-37.78526015500,145.11508652300
+PL177,Southern Gully Reserve - West (Tullamore) Playspace,13,Heritage Boulevard,Doncaster,Large Playground,FLPK422,-37.78466701700,145.11330851900
+PL178,Morello Playspace,47,Morello Cicrle,Doncaster East,Small Playground,FLPK283,-37.76201057000,145.17030180000
+Unknown01,Lawford Reserve Playground,23,Lawford Street,Doncaster,Large Playground,FLPK179,-37.78527334400,145.12027958100
+Unknown02,Gainsborough Reserve Playground,24,Gainsborough Street,Doncaster East,Small Playground,FLPK355,-37.78382153100,145.15554838500
